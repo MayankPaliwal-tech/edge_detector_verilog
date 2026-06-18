@@ -1,6 +1,6 @@
  // An edge detector
 
-module edge_detec (
+module edge_detector (
   input     wire    clk,
   input     wire    reset,
 
