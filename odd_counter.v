@@ -1,6 +1,6 @@
 // Odd counter
 
-module day5 (
+module odd_counter (
   input     wire        clk,
   input     wire        reset,
 
